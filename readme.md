@@ -2,10 +2,6 @@
 
 [**DOWNLOAD THE LATEST RELEASE BUILD**](https://github.com/proto-proxy/discord_image_downloader/releases/latest)
 
-## Discord SelfBots are forbidden!
-[Official Statement](https://support.discordapp.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-)
-### You have been warned.
-
 This is a simple tool which downloads media posted in Discord channels of your choice to a local folder. It handles various sources to make sure to download the best quality available.
 
 ## Websites currently supported
